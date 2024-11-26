@@ -1,4 +1,4 @@
-Repository with routines used in **Implications of Brazilian institutional guidelines on educational efficiency**.  
+Repository with routines used in **An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression**.  
 
 - **MCMC_Code.R** : Main file containing the MCMC routine; 
 - **Full_Conditionals.R** : Auxiliary file with all full conditional distributions;
