@@ -1,8 +1,4 @@
 Repository with routines used in **An Expectation-Maximization algorithm for noncrossing Bayesian quantile regression**.  
 
-- **MCMC_Code.R** : Main file containing the MCMC routine; 
-- **Full_Conditionals.R** : Auxiliary file with all full conditional distributions;
-- **dados.RData** : real data set;
-- **W_RS.RData** : adjacency matrix for the municipalities of Rio Grande do Sul state;
-- **W_RS_imediata.RData** : adjacency matrix for the immediate regions of Rio Grande do Sul;
-- **W_RS_intermediaria.RData** : adjacency matrix for the intermediate regions of Rio Grande do Sul.
+- **NoCrossQuant_Bondell.r** : Main file containing the MCMC routine; 
+- **ImmunogG.rda** : Immunoglobulin-G (IgG) data from Isaacs et al. (1987).
